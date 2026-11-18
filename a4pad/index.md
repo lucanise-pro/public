@@ -8,9 +8,7 @@ Contents: [Privacy Policy](#1-privacy-policy) · [Disclaimers](#2-disclaimers) �
 
 ---
 
-# A4Pad — Policies & Legal Information
-
-**Last Updated:** September 8, 2026
+**Last Updated:** November 18, 2026
 
 ---
 
@@ -157,5 +155,5 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 ---
 
-**Contact:**
-For questions regarding these policies, you may reach us at mail.lucanise@gmail.com or visit https://lucanise-pro.github.io/public/a4pad/. Support is provided on a best-effort basis only; a response is not guaranteed.
+**Policies:**
+These policies are kept at https://lucanise-pro.github.io/public/a4pad/. A4Pad is no longer developed and no support is provided.
