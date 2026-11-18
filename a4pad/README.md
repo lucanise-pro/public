@@ -1,10 +1,6 @@
----
-title: A4Pad
----
+# A4Pad
 
 > **A4Pad has been discontinued as of 31/12/2026.** There will be no further updates or support. The terms, privacy policy and license agreement it was offered under are kept below for reference.
-
-Contents: [Privacy Policy](#1-privacy-policy) · [Disclaimers](#2-disclaimers) · [Terms of Use](#3-terms-of-use)
 
 ---
 
@@ -156,4 +152,4 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 ---
 
 **Policies:**
-These policies are kept at https://lucanise-pro.github.io/public/a4pad/. A4Pad is no longer developed and no support is provided.
+These policies are kept at https://github.com/lucanise-pro/public/tree/main/a4pad. A4Pad is no longer developed and no support is provided.
