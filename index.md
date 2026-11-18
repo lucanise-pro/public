@@ -6,4 +6,5 @@ title: Apps
 
 Hobby apps I made and have since discontinued. Their terms and privacy policies stay here for reference.
 
+- [A4Pad](a4pad/)
 - [WeekPad](weekpad/)
