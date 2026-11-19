@@ -10,7 +10,7 @@ Contents: [Terms of Use](#terms-of-use) · [Privacy Policy](#privacy-policy) · 
 
 # Terms of Use
 
-Last Updated: August 2026
+Last Updated: November 2026
 
 WeekPad is developed and maintained by a single independent developer, not a
 company — there is no team and no support desk, and any support, reply, or
@@ -53,7 +53,7 @@ can't guarantee that it won't be lost or corrupted.
 
 ### 1.4. Optional iCloud Sync
 
-Sync is optional, off by default, and offered as a paid subscription. If you
+Sync is optional, off by default, and included — but unsupported and provided as-is. If you
 enable it, your data is stored in your own Apple iCloud private database, which
 only you and Apple control. We operate no server and hold no copy; we cannot
 read, see, reach, control, or recover it. Enabling Sync means your data is
@@ -174,9 +174,8 @@ twelve months before the claim arose.
 
 By downloading and using WeekPad, you agree to these Terms of Use and to the
 WeekPad End User License Agreement (EULA), which governs your use of the App.
-The EULA is available on our website at lucanise-pro.github.io/public/weekpad and through the App
-Store listing. These Terms of Use and the EULA are written to say the same
-thing.
+The EULA is kept online at lucanise-pro.github.io/public/weekpad. These Terms of
+Use and the EULA are written to say the same thing.
 
 ### 3.2. Usage Rights
 
@@ -187,48 +186,16 @@ You own all content you create. The App is licensed to you, not sold.
 You agree not to store illegal content or reverse engineer the application
 code.
 
-### 3.4. Purchase, Subscription, Pricing and Payments
+### 3.4. Support
+WeekPad is a hobby project, made by one person. Support has ended: there will be no further updates, and the App may stop working with future versions of iOS. iCloud Sync is included and provided as-is, unsupported, and may stop working from 31 December 2026. Your planners are your responsibility: export them and keep your own copies.
 
-WeekPad is a paid App. You buy it from the App Store, and that purchase unlocks
-the whole App on your device — as many agendas as you like, with notes, photos,
-checklists, search and Export, all offline. Nothing inside the App is locked
-behind a further purchase.
-
-The App is the same complete App for everyone who has it, whatever they paid for
-it. Its price is set on the App Store, and we may change it at any time, or offer
-the App at a discount or at no charge. A change in price never adds or removes
-features for anyone, whether they got the App before or after the change, and it
-gives no right to a refund, a credit, or the difference in price. Whatever you
-paid — including nothing — you have the same App as everyone else.
-
-"WeekPad Sync" is an optional auto-renewable subscription and the only thing sold
-inside the App: it syncs your planners through your own iCloud so they appear on
-your other Apple devices. It adds no other feature, and it is the only part of
-WeekPad that depends on anything beyond having the App. Current prices, billing
-period, and renewal terms are always shown in the App at the moment of purchase
-and on the App Store product page, and are managed in your Apple account, where
-you can cancel at any time. A subscription renews automatically unless cancelled
-at least 24 hours before the end of the current period. Payment is charged to
-your Apple account. Refunds are handled exclusively by Apple. If a subscription
-lapses, syncing pauses and nothing on your device is removed or locked — your
-agendas always stay readable and editable.
-
-Earlier versions of WeekPad were free to download, included one agenda, and
-offered a one-time "Unlimited Agendas" purchase for more. That purchase has been
-retired and is no longer sold. Unlimited agendas are now simply part of the App
-for everyone who has it — including everyone who downloaded it while it was free
-and everyone who bought the earlier unlock. Nothing anyone already created has
-been removed, locked, or changed.
+If you still have a WeekPad Sync subscription, it is no longer needed — you can cancel it in your Apple Account settings. Refunds are handled exclusively by Apple.
 
 ### 3.5. Changes to Terms
 
-We may update, change, or replace these terms at any time, at our sole
-discretion. Because we keep no account for you and hold no way to contact you,
-we do not and cannot notify you of changes. The current version is the one
-published on our website at lucanise-pro.github.io/public/weekpad and on our App Store page; the
-copy shown inside the App is provided only for your convenience and may be out
-of date. It is your responsibility to review the current version. Your continued
-use of the App after any change means you accept the then-current terms.
+WeekPad is discontinued and these terms are no longer being updated. A
+reference copy is kept online at lucanise-pro.github.io/public/weekpad. Your
+continued use of the App means you accept them.
 
 ### 3.6. No Account; We Cannot Contact You
 
@@ -285,7 +252,7 @@ have your own backup.
 
 ## 3. Optional iCloud Sync
 
-Sync is optional, off by default, and offered as a paid subscription. If you
+Sync is optional, off by default, and included — but unsupported and provided as-is. If you
 turn it on, your planners and photos are stored in YOUR own Apple iCloud
 account (a private database only you and Apple can access). They are not files
 or folders you can browse — only WeekPad can open them, and you will only see
@@ -341,7 +308,7 @@ If you have questions about this policy, please assume the answer is
 
 # WeekPad End User License Agreement
 
-**Last Updated: August 2026**
+**Last Updated: November 2026**
 
 This End User License Agreement ("Agreement") is a legal agreement between you ("you") and **Lucanise** ("we", "us", the "Developer") for the WeekPad application and any optional features, including iCloud Sync (together, the "App"). By downloading, installing, or using the App, you agree to this Agreement. If you do not agree, do not use the App.
 
@@ -359,7 +326,7 @@ The App, including iCloud Sync, is provided **"AS IS" and "AS AVAILABLE," withou
 To the maximum extent possible, **we accept no responsibility and no liability for anything**, including any loss, deletion, corruption, or exposure of your data, whether on your device or in your iCloud, and whether caused by user error, device failure, app or system updates, iCloud issues, network conditions, or any other cause. **You use the App entirely at your own risk.**
 
 ### A4. Optional iCloud Sync
-Sync is optional, off by default, and offered as a paid auto-renewable subscription. If you enable it, your data is stored in **your own Apple iCloud private database**, which only you and Apple control. We operate no server and keep no copy; **we cannot read, see, reach, control, or recover your synced data.** Enabling Sync means your data is also subject to Apple's iCloud terms. Syncing uses network data and counts toward your iCloud storage.
+Sync is optional, off by default, and included — but unsupported and provided as-is. If you enable it, your data is stored in **your own Apple iCloud private database**, which only you and Apple control. We operate no server and keep no copy; **we cannot read, see, reach, control, or recover your synced data.** Enabling Sync means your data is also subject to Apple's iCloud terms. Syncing uses network data and counts toward your iCloud storage.
 
 ### A5. Sync is not a backup; no import; no recovery
 Sync keeps your devices matching each other — it is **NOT a backup.** A deletion or change on one device can propagate to your other devices and to your iCloud. The App provides **NO import and NO restore of any kind**; we cannot load data back into the App for you. **Your own Export is the only recovery that never depends on us, on Apple, or on Sync.** Whether data syncs, downloads, or can be recovered depends entirely on factors outside our control, and we do not and cannot guarantee it, in whole or in part.
@@ -370,14 +337,10 @@ Your synced data lives in your own iCloud, which only you and Apple control. We 
 ### A7. Termination, end of support, withdrawal, and transfer of ownership
 We may, at any time and at our sole discretion, **without notice and without any obligation or liability to you**: end, reduce, or stop providing support for the App or any feature; withdraw the App or any feature from sale or availability; suspend, pause, or **permanently discontinue and terminate** the App, Sync, or any part or feature of either; and **transfer, sell, assign, or otherwise dispose of the App, this Agreement, and/or ownership of the App** to any other party. We make no promise that the App, Sync, support, updates, or availability will continue to exist. It is your responsibility to keep your own Exports so you never depend on the App, Sync, or us continuing to exist.
 
-### A8. Purchases, subscription, pricing, and payments
-WeekPad is a **paid App.** You buy it from the App Store, and that purchase unlocks the whole App on your device — as many agendas as you like, with notes, photos, checklists, search and Export, all offline. **Nothing inside the App is locked behind a further purchase.**
+### A8. Support
+WeekPad is a hobby project, made by one person. Support has ended: there will be no further updates, and the App may stop working with future versions of iOS. iCloud Sync is included and provided as-is, unsupported, and may stop working from 31 December 2026. Your planners are your responsibility: export them and keep your own copies.
 
-**The App is the same complete App for everyone who has it, whatever they paid for it.** Its price is set on the App Store, and **we may change it at any time, or offer the App at a discount or at no charge.** A change in price **never adds or removes features for anyone,** whether they got the App before or after the change, and it **gives no right to a refund, a credit, or the difference in price.** Whatever you paid — including nothing — you have the same App as everyone else.
-
-**"WeekPad Sync"** is an optional auto-renewable subscription and the only thing sold inside the App: it syncs your planners through your own iCloud so they appear on your other Apple devices. It adds no other feature, and it is **the only part of WeekPad that depends on anything beyond having the App.** Current prices, billing period, and renewal terms are always shown in the App at the moment of purchase and on the App Store product page, and are managed in your Apple Account, where you can cancel at any time. A subscription renews automatically unless cancelled at least 24 hours before the end of the current period. Payment is charged to your Apple Account. Refunds are handled exclusively by Apple. If a subscription lapses, syncing pauses and nothing on your device is removed or locked — your agendas always stay readable and editable.
-
-Earlier versions of WeekPad were free to download, included one agenda, and offered a one-time **"Unlimited Agendas"** purchase for more. That purchase has been **retired and is no longer sold.** Unlimited agendas are now simply part of the App for everyone who has it — including everyone who downloaded it while it was free and everyone who bought the earlier unlock. Nothing anyone already created has been removed, locked, or changed.
+If you still have a WeekPad Sync subscription, it is no longer needed — you can cancel it in your Apple Account settings. Refunds are handled exclusively by Apple.
 
 ### A9. Your content and acceptable use
 You own all content you create; the App is licensed to you, not sold. You agree not to store illegal content or reverse engineer the App.
@@ -386,7 +349,7 @@ You own all content you create; the App is licensed to you, not sold. You agree 
 We do not require an account with us, and we collect, store, and share no personal data of yours. See the Privacy Policy for details. By continuing to use the App you acknowledge these limitations and accept full responsibility for your data.
 
 ### A11. Changes to this Agreement
-We may update, change, or replace this Agreement at any time, at our sole discretion. **Because we keep no account for you and hold no way to contact you, we do not and cannot notify you of changes.** **The current version is the one published on our website at lucanise-pro.github.io/public/weekpad and on our App Store page.** Any copy shown inside the App is provided **only for your convenience and may be out of date.** **It is your responsibility to review the current version.** Your continued use of the App after any change means you accept the then-current Agreement.
+WeekPad is discontinued and this Agreement is no longer being updated. **A reference copy is kept online at lucanise-pro.github.io/public/weekpad.** Your continued use of the App means you accept it.
 
 ### A12. No account; we cannot contact you
 We do not create or maintain any account for you and store **no account data or personal identifiers.** We have no database of users and no way to identify, contact, notify, or reach you.
@@ -423,6 +386,6 @@ The following terms are required by Apple for apps distributed through the App S
 5. **Product Claims.** The Developer, not Apple, is responsible for addressing any claims by you or any third party relating to the App or your possession and/or use of the App, including but not limited to: (a) product liability claims; (b) any claim that the App fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection, privacy, or similar legislation.
 6. **Intellectual Property Rights.** In the event of any third-party claim that the App or your possession and use of the App infringes that third party's intellectual property rights, the Developer, not Apple, will be solely responsible for the investigation, defense, settlement, and discharge of any such claim.
 7. **Legal Compliance.** You represent and warrant that you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and that you are not listed on any U.S. Government list of prohibited or restricted parties.
-8. **Developer Name and Address.** Any questions, complaints, or claims regarding the App should be directed to the developer, **Lucanise**, via **https://lucanise-pro.github.io/public/weekpad/**.
+8. **Developer Name and Address.** Any questions, complaints, or claims regarding the App should be directed to the developer, **Lucanise**, at **mail.lucanise@gmail.com**. WeekPad is discontinued and unsupported; a reply is not guaranteed.
 9. **Third-Party Terms of Agreement.** You must comply with applicable third-party terms of agreement when using the App.
 10. **Third-Party Beneficiary.** You acknowledge and agree that Apple, and Apple's subsidiaries, are third-party beneficiaries of this Agreement, and that, upon your acceptance of this Agreement, Apple will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary thereof.
