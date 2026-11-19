@@ -152,4 +152,4 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 ---
 
 **Policies:**
-These policies are kept at https://github.com/lucanise-pro/public/tree/main/a4pad. A4Pad is no longer developed and no support is provided.
+These policies are kept at https://lucanise-pro.github.io/public/a4pad/. A4Pad is no longer developed and no support is provided.
